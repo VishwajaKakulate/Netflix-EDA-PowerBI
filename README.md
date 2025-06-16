@@ -25,5 +25,5 @@ This project showcases an **Exploratory Data Analysis** (EDA) on Netflix titles 
 - `dashboard_screenshot.png` – Dashboard preview
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](powerbi_visual.png)
 
